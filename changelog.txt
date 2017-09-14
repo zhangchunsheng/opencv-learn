@@ -1,6 +1,9 @@
 [opencv-learn_1.0.0.1 2017-09-12 张春生]
 1.新功能:初始化项目
 
+[opencv-learn_1.0.0.1 2017-09-14 张春生]
+1.新功能:add object detection
+
 --备注分类
 1、新功能：
 2、Bug:
